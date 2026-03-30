@@ -1,6 +1,7 @@
 .navbar {
     background-color: black;
     border-radius: 20px;
+    margin: 10px;
 }
 
 .logo {
@@ -8,4 +9,11 @@
     height: 100px;
     padding-left: 20px;
     display: flex;
+    margin: 10px;
+}
+
+.latest {
+    padding-left: 15px;
+    font-size: 20px;
+
 }
