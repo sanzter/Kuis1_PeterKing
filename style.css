@@ -1,0 +1,11 @@
+.navbar {
+    background-color: black;
+    border-radius: 20px;
+}
+
+.logo {
+    width: 20%;
+    height: 100px;
+    padding-left: 20px;
+    display: flex;
+}
