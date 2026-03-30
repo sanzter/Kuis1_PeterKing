@@ -14,6 +14,7 @@
     padding-left: 20px;
     display: flex;
     margin: 10px;
+
 }
 
 .latest {
@@ -51,8 +52,9 @@ img {
 
 @media screen and (max-width : 600px) {
     body {
-        
+    
     }
+    
 }
 
 
@@ -80,12 +82,12 @@ img {
     }
 
     .col-lg-50 {
-        width: 50%;
-        float: left;
+        width: 25%;
+        float: 25%;
     }
 
-    .col-lg-75 {
-        width: 75%;
+    .col-lg-12 {
+        width: 12.5%;
         float: left;
     }
 }
