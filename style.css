@@ -24,6 +24,7 @@
 
 img {
     border-radius: 20px;
+    width: 100%;
 }
 
 .col-lg-25{
@@ -39,6 +40,12 @@ img {
     padding-top: 0px;
 }
 
+.news {
+    margin-top: -5px;
+    padding-top: 0px;
+    font-size: 20px;
+    justify-content: left;
+}
 
 
 @media screen and (max-width : 600px) {
